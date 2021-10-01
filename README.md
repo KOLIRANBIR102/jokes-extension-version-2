@@ -1,2 +1,2 @@
-# jokes-extension-version-2
-a chrome extension to get funny jokes
+# Funnyyyy-Jokes-Chrome-Extension
+You click on this google chrome extension to get a random Joke every time 😂
